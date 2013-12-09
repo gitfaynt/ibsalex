@@ -3,7 +3,7 @@ form{
 	margin:5px;
 	padding:0; 
 	background:#95b6d8; 
-	-moz-border-radius:6px;
+	border-radius:6px;
 }
 
 h1 {
@@ -33,7 +33,7 @@ input{
  
 input.text{
 	width:100px; 
-	-moz-border-radius:6px; 
+	border-radius:6px; 
 	margin:2px 0 5px 0; 
 	padding:2px; 
 	border:1px solid #369; 
@@ -43,7 +43,7 @@ input.text{
 input.submit{
 	cursor:pointer; 
 	float:right; 
-	-moz-border-radius:6px; 
+	border-radius:6px; 
 	border:1px solid #369; 
 	background:#fff; 
 	height:21px; 

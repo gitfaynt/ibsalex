@@ -5,6 +5,10 @@ form{
 	background:#95b6d8; 
 	-moz-border-radius:6px;
 }
+
+h1 {
+	font-size:13px;
+}
  
 fieldset{
 	margin:0;
